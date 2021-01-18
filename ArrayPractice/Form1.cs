@@ -168,7 +168,7 @@ namespace ArrayPractice
             swap2Output.Text = "";
             for (int i = 0; i < values.Length; i++)
             {
-                swap2Output.Text += values[i] + " ";
+                swap2Output.Text += numbers[i] + " ";
             }
         }
     }
